@@ -13,3 +13,7 @@ Being a small network, the company has the following requirements during impleme
 - Devices in all the departments are required to communicate with each other.
   
 Assume the ISP gave out base network of 192.168.1.0; you as the network engineer who has been hired, design and implement a network considering the above requirements.
+
+
+<img width="1241" height="702" alt="image" src="https://github.com/user-attachments/assets/894ffa98-17e4-4be4-8364-ebeab06d6bf2" />
+
