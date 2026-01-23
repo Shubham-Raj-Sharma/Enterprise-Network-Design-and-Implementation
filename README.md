@@ -9,4 +9,5 @@ Being a small network, the company has the following requirements during impleme
 - Each department is required to have wireless network for the users.
 - Host devices in the network are required to obtain IPv4 address automatically.
 - Devices in all the departments are required to communicate with each other.
+  
 Assume the ISP gave out base network of 192.168.1.0; you as the network engineer who has been hired, design and implement a network considering the above requirements.
