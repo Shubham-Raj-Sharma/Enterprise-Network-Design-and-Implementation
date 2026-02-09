@@ -1,4 +1,4 @@
-## SOHO Network Design
+## Enterprise Network Design
 
 ### Introduction
 
